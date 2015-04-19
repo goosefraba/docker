@@ -1,2 +1,2 @@
-# docker
-A set of common docker files and examples
+# Docker
+A set of common docker files and examples.
