@@ -40,4 +40,4 @@ Build your image within the directory of the Dockerfile:
 ### Useage:
 After building the container, the following example commad could be used to run gulp within the container:
 
-	docker run -i -t -p 80:80 -v YOUR_ABSOLUTE_PATH:/gulp gulp_example gulp:watch
+	docker run -i -t -v YOUR_ABSOLUTE_PATH:/gulp gulp_example gulp:watch
