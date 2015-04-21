@@ -1,4 +1,3 @@
-#FROM ubuntu:14.04
 FROM java:8-jdk
 MAINTAINER Bernhard Keprt <bernhard.keprt@gmail.com>
 
